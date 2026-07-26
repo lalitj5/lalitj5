@@ -1,4 +1,12 @@
-## Hi there 👋
+## Glad you're here!
+
+My name's lalit and right now:
+- I'm currently working on **a personalized coding harness**
+- I'm trying to learn how **to ask better questions**
+- I love **watching and playing basketball**.
+- I'm super passionate about learning about and solving problems in **AI Safety and verification methods (my latest deep dive)**
+
+If any of these resonate with you, reach out to me at lalitjulapalli5[at]gmail[dot]com and I'd love to meet you!
 
 <!--
 **lalitj5/lalitj5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
