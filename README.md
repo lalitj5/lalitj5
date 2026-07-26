@@ -1,9 +1,10 @@
 ## Glad you're here!
 
 My name's lalit and right now:
+- I write for a technical newsletter called **[AI, but Simple]([url](https://www.aibutsimple.com/))**, go check it out!
 - I'm currently working on **a personalized coding harness**
-- I'm trying to learn how **to ask better questions**
-- I love **watching and playing basketball**.
+- I'm trying to learn how **draw, but by using color theory mind tricks**
+- I love **watching and playing basketball**
 - I'm super passionate about learning about and solving problems in **AI Safety and verification methods (my latest deep dive)**
 
 If any of these resonate with you, reach out to me at lalitjulapalli5[at]gmail[dot]com and I'd love to meet you!
